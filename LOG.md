@@ -8,3 +8,4 @@
 
 ## 6/16/2019 Session 2
 - Figured out how to host files in a directory, admittedly very easy.
+    - There are two "src" folders, in the parent and child directories because I had structured my folder system differently than I saw others had online. Not a big deal, but it may just be some convention I'm unaware of.

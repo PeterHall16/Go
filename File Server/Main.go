@@ -3,8 +3,8 @@ import (
   "net/http"
   "strings"
 )
-func sayHello(w http.ResponseWriter, r *http.Request) {
-  message := r.URL.Path
+func sayHello(w http.ResponseWriter, r *http.Request) { // Create Handler
+  message := r.URL.Path // Get the message from the URL
   message = strings.TrimPrefix(message, "/")
   message = "Hello " + message
   w.Write([]byte(message))

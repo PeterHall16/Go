@@ -5,3 +5,6 @@
     - Host a locally stored HTML file.
     - Work on hosting the server to the internet for testing/validation purposes.
 - Notes: This may seem like a small, or unimpressive start, but it will get much better soon.
+
+## 6/16/2019 Session 2
+- Figured out how to host files in a directory, admittedly very easy.

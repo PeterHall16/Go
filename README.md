@@ -5,3 +5,7 @@ A log of the progress/updates on this endeavor will be recorded in LOG.md.
 
 ## 6/16/2019 Update
 I will no longer be adding to this repository indefinitely, as it is more efficient for me to include my learning processes with the Go projects I am currently working on.
+
+
+## 6/25/2019 Update 
+I actually will be using this repository a little bit.

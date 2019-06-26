@@ -1,15 +1,15 @@
 package main
 
-import (
-        "net/http"
-)
+// import (
+//         "net/http"
+// )
 
-func main() {
-        http.Handle("/", http.FileServer(http.Dir("./src")))
-        http.ListenAndServe(":3000", nil)
-}
+// func main() {
+//         http.Handle("/", http.FileServer(http.Dir("./src")))
+//         http.ListenAndServe(":3000", nil)
+// }
 
-// More complex example provided by Henrique Dias from 
+// More complex example provided by Henrique Dias from
 // https://hackernoon.com/how-to-create-a-web-server-in-go-a064277287c9
 // package main
 // import (
